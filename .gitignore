@@ -91,3 +91,14 @@ pip-wheel-metadata/
 *.pyd
 *.swp
 output/*
+data/.~lock.graduates-major-data.csv#
+data/graduates-major-data.parquet
+data/graduates-major-data.pkl
+kolumny.csv
+config.csv
+.~lock.graduates-major-data-cleaned.csv#
+data/.~lock.graduates-institution.csv#
+data/.~lock.graduates-major-data.csv#
+roboczy.ipynb
+graduates-major-data-cleaned.csv
+roboczy.ipynb
